@@ -1,0 +1,5 @@
+To build run
+
+	./autogen.sh
+	./configure ${CONFIGURE_FLAGS}
+	make

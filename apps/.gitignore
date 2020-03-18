@@ -1,0 +1,6 @@
+.deps/
+.libs/
+skeletoninfo
+*.o
+Makefile
+Makefile.in
